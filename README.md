@@ -17,6 +17,8 @@ While all files can be executed independently on their own, the recommended orde
 2. [Section3.nb](Section3.nb)
 3. [Section4.nb](Section4.nb)
 
+The Mathematica files are written in Mathematica 12.0, but they should be compatible with Mathematica 13.0.
+
 ## Other Directories
 The folders for this repository are as follows:
 1. [Dependency](Dependency) : Contains pre-computed points and other dependencies for the main Mathematica files. 
